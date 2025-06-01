@@ -7,8 +7,6 @@ The construction of QM/MM models is usually a laborious and error-prone task tha
 
 ## Installation
 
-### From Source
-
 ```bash
 git clone https://github.com/gozem-gsu/Automated-APEC-F.git
 ./setup.sh
