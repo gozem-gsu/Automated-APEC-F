@@ -15,4 +15,5 @@ A youtube video link is provided for the initial steps required to start running
 Samer Gozem Group
 
 *Georgia State University*
+
 <img src="gozemlab.png" width="50%" alt="description">
