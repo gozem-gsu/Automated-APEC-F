@@ -11,7 +11,7 @@ fi
 
 cd "$project_name" && echo "Now in folder '$project_name'"
 # Step 1: Clone APEC code
-git clone https://github.com/selhajj1/Automated-APEC.git || { echo "Failed to clone repository"; exit 1; }
+git clone https://github.com/gozem-gsu/Automated-APEC-F.git || { echo "Failed to clone repository"; exit 1; }
 echo "step 1 done"
 
 # Step 2: Loading the needed python version
